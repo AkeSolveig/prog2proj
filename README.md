@@ -1,6 +1,6 @@
 # prog2proj
 
-Project terv: DungeonSouls(placeholder)
+Project terv: DungeonSouls(placeholder)  
 ThirdPerson Dungeon crawler game
 
 Egyelore csak az editor nelkuli tesztmappot tudtam feltolteni, hamarosan feltoltom az egesz projektet editorral egyutt.
