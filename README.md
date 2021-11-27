@@ -10,9 +10,9 @@ A mostani verzio windowson mukodik csak, majd megprobalok egy linuxos verziot is
 
 
 **installation:**
-⋅⋅*Download all files from the drive, put them in one folder.
-⋅⋅*Open the WindowsNoEditor and launch DungeonSouls.exe.
-⋅⋅*When the game opens click on Host and the testmap will be loaded.
+1. Download all files from the drive, put them in one folder.
+1. Open the WindowsNoEditor and launch DungeonSouls.exe.
+1. When the game opens click on Host and the testmap will be loaded.
 
 **Assets and tutorial channels used in the project for now:**
 
