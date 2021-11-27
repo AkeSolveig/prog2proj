@@ -44,9 +44,9 @@ https://www.youtube.com/c/MrZCAD/videos
 
 USED ASSETS IN THE GAME:
 
-FX Variety Pack by Kakky
-Horror Engine by tansuergene
-Infinity Blade and Paragon assets by Epic Games
+FX Variety Pack by Kakky  
+Horror Engine by tansuergene  
+Infinity Blade and Paragon assets by Epic Games  
 
 
 
