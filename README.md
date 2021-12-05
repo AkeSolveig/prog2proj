@@ -6,13 +6,13 @@ ThirdPerson Dungeon crawler game
 Egyelore csak az editor nelkuli tesztmappot tudtam feltolteni, hamarosan feltoltom az egesz projektet editorral egyutt.
 A mostani verzio windowson mukodik csak, majd megprobalok egy linuxos verziot is krealni hatha mukodik.
 
-**Download:** https://drive.google.com/drive/folders/1Vu0g3PELUx_J4azu9ctk09Ie1ZZNusPO?usp=sharing
+**Download:** https://drive.google.com/drive/folders/19Jos1_-Y3RmlSaoy9iJtbQ8CURgONvH_?usp=sharing
 
 
 **installation:**
-1. Download all files from the drive, put them in one folder.
+1. Download all files from the 'packaged without editor' and put them in one folder.
 1. Open the WindowsNoEditor and launch DungeonSouls.exe.
-1. When the game opens click on Host and the testmap will be loaded.
+1. When the game opens click on Host and the testmap will be loaded. (the exe requires internet connection and steam running in the background)
 
 **Assets and tutorial channels used in the project for now:**
 
